@@ -1,0 +1,347 @@
+no output
+What are the names, classifications, and mechanisms of action of drugs used to treat myocardial ischemia?	
+There are several categories of drugs used to treat myocardial ischemia: 1. Nitrates (e.g., nitroglycerin) which dilate blood vessels and improve blood flow to the heart. 2. Beta-blockers (e.g., metoprolol) which slow heart rate and decrease blood pressure, reducing the heart's workload. 3. Calcium channel blockers (e.g., amlodipine) which relax and widen blood vessels by affecting the muscle cells in the arterial walls. 4. Antiplatelet drugs (e.g., aspirin) which prevent blood clots from forming. 5. Statins (e.g., atorvastatin) which lower cholesterol levels and reduce the risk of heart attack.
+
+What are the side effects of individual drugs used to treat myocardial ischemia?	
+The side effects vary depending on the drug: 1. Nitrates can cause headaches, dizziness, and flushing. 2. Beta-blockers can cause fatigue, cold hands or feet, and weight gain. 3. Calcium channel blockers can cause constipation, nausea, and swelling in the lower legs. 4. Antiplatelet drugs can increase the risk of bleeding. 5. Statins can cause muscle pain, liver damage, and increased blood sugar levels.
+
+What are the side effects of combination therapy for myocardial ischemia?	
+Combination therapy can increase the risk of certain side effects. For example, using a beta-blocker with a calcium channel blocker can increase the risk of heart failure or abnormal heart rhythms. Using an antiplatelet drug with a blood thinner can increase the risk of bleeding.
+
+Which drugs can be used in combination to treat ischemic heart diseases?	
+Several drugs can be used in combination to treat ischemic heart diseases, including: 1. Nitrates and beta-blockers. 2. Beta-blockers and calcium channel blockers. 3. Antiplatelet drugs and statins. The specific combination of drugs will depend on the patient's condition and the doctor's judgment.
+What is myocardial oxygen balance?	A balance between myocardial oxygen supply and demand.
+What factors can cause an imbalance in myocardial oxygen balance?	An increase in myocardial oxygen demand or a decrease in myocardial oxygen supply or sometimes both.
+What are the components of myocardial oxygen balance?	Coronary blood flow, myocardial contractility, regional myocardial blood flow, and afterload blood flow.
+What are the determinants of myocardial oxygen demand?	Heart rate, Contractility, Wall stress, Intraventricular pressure, Ventricular radius (volume), Wall thickness, Vascular tone: peripheral arteriolar (systolic wall stress) and venous tone (diastolic wall stress)
+What are the determinants of coronary blood flow and myocardial oxygen supply?	Coronary blood flow is regulated by duration of diastole, perfusion pressure and is inversely proportional to coronary vascular resistance. Other factors include endothelial function, metabolic products, autonomic activity.
+What are the diastolic factors that determine myocardial oxygen requirement?	Blood volume, Venous tone, Intramyocardial fiber tension
+What are the systolic factors that determine myocardial oxygen requirement?	Peripheral resistance, Heart rate, Heart force, Ejection time
+What is the myocardial oxygen requirement?	It's the amount of oxygen that the heart muscle needs to function properly. It is determined by various diastolic and systolic factors such as blood volume, venous tone, peripheral resistance, heart rate, heart force, ejection time, and intramyocardial fiber tension.
+What is the primary determinant of myocardial O2 supply?	 The primary determinant of myocardial O2 supply is the coronary blood flow.
+What can impair coronary blood flow?	 The progressive decrease in vessel radius that characterizes coronary atherosclerosis can impair coronary blood flow.
+What is the mechanism of vascular smooth muscle contraction?	First, calcium ions bind to calmodulin to form a Ca2+-Calmodulin complex. This complex then activates Myosin Light Chain Kinase (MLCK). Activated MLCK phosphorylates myosin light chains, which allows myosin to bind to actin and initiate contraction.
+
+What is the site of action of vasorelaxing drugs?	Vasorelaxing drugs act on the vascular smooth muscle cells. They inhibit the formation of the Ca2+-Calmodulin complex and the activation of MLCK, which prevents the phosphorylation of myosin light chains and the subsequent contraction of the smooth muscle cells. This results in the relaxation of the vascular smooth muscle and vasodilation.
+
+What is the role of cAMP in vascular smooth muscle relaxation?	cAMP inhibits the formation of the Ca2+-Calmodulin complex and the activation of MLCK, which prevents the phosphorylation of myosin light chains and the subsequent contraction of the smooth muscle cells. This results in the relaxation of the vascular smooth muscle and vasodilation.
+
+What is the role of Rho-kinase (ROCK) in vascular smooth muscle contraction?	ROCK inhibits myosin light chain phosphatase, which prevents the dephosphorylation of myosin light chains and maintains the contraction of the smooth muscle cells. This results in the contraction of the vascular smooth muscle and vasoconstriction.
+What are the determinants of vasorelaxation?	e Increased cGMP, e Increased cAMP, e Decreased intracellular Ca*, e Stabilization of vascular smooth muscle cell membrane (i.e., K* channel openers)
+What can correct the imbalance between oxygen delivery and myocardial oxygen demand?	Decreasing oxygen demand or increasing O2 supply via increasing coronary flow.
+What are the effects of Beta Adrenergic antagonists on the heart rate?	They decrease the heart rate.
+What is the function of Coronary Vasodilators?	They increase blood flow.
+What is the role of some Calcium entry blockers?	They increase blood flow, especially Calcium entry blockers.
+What is the effect of Organic nitrates on myocardial?	They decrease myocardial.
+What are some other medications that can help correct the imbalance between oxygen delivery and myocardial oxygen demand?	Statins and anti-thrombotics.
+What drugs are used in the treatment of myocardial ischemia?	1) Vasodilators such as Nitrates/nitrites and Calcium channel blockers 2) Cardiac depressants like Calcium channel blockers and Beta-adrenoceptor blockers 3) Antiplatelets & Antitrombotic Agents such as aspirin, clopidogrel, and heparin 4) Others like metabolism modifiers and rate inhibitors.
+What are the types of Vasodilators used in myocardial ischemia?	Nitrates/nitrites and Calcium channel blockers
+What are the types of Cardiac depressants used in myocardial ischemia?	Calcium channel blockers and Beta-adrenoceptor blockers
+What are the types of Antiplatelets & Antitrombotic Agents used in myocardial ischemia?	Aspirin, clopidogrel, and heparin
+What are the other types of drugs used in myocardial ischemia?	Metabolism modifiers and rate inhibitors.
+What are some examples of vasodilators in the nitrate/nitrites category?	 Nitroglycerine, Sodium nitroprusside, Isosorbite dinitrate, Amyl nitrite (not used anymore)
+What is the prototype of nitrate/nitrites vasodilators?	Nitroglycerine
+What is a vasodilator that is no longer used?	Amyl nitrite
+What is the chemical structure of Nitroglycerine?	HC— 0 — NO
+What is the chemical structure of Sodium nitroprusside?	H,C - oO Se NO
+What is the half life of unchanged nitrates once absorbed?	2-8 minutes.
+What is the half life of partially denitrated metabolites?	Up to 3 hours.
+What is the bioavailability of isosorbide mononitrate when taken orally?	100%.
+Why are nitroglycerin and isosorbide dinitrate used sublingually?	Due to low oral bioavailability.
+What are the routes of administration for nitrate/nitrites?	Sublingual, oral, transdermal, and buccal.
+What is the purpose of slow-release preparations for nitrate/nitrites?	For longer duration of action.
+How quickly do nitrate/nitrites reach therapeutic blood levels?	Within a few minutes.
+What is an active metabolite of isosorbide dinitrate?	Isosorbide mononitrate.
+What is the oral preparation available for longer duration of action in nitrate/nitrites?	Pentaerythritol.
+What is the dose and duration of action for short-acting Nitroglycerin, sublingual in the treatment of angina?	0.15-1.2mg with a duration of action of 10-30 minutes
+What is the dose and duration of action for short-acting Isosorbide dinitrate, sublingual in the treatment of angina?	2.5-5mg with a duration of action of 10-60 minutes
+What is the dose and duration of action for short-acting Amyl nitrite, inhalant in the treatment of angina?	0.18-0.3 mL with a duration of action of 3-5 minutes
+What is the dose and duration of action for long-acting Nitroglycerin, oral sustained-action in the treatment of angina?	6.5-13 mg per 6—8 hours with a duration of action of 6-8 hours
+What is the dose and duration of action for long-acting Nitroglycerin, 2% ointment, transdermal in the treatment of angina?	1-1.5 inches per 4 hours with a duration of action of 3-6 hours
+What is the dose and duration of action for long-acting Nitroglycerin, slow-release, buccal in the treatment of angina?	1-2 mg per 4 hours with a duration of action of 3-6 hours
+What is the dose and duration of action for long-acting Nitroglycerin, slow-release patch, transdermal in the treatment of angina?	10-25 mg per 24 hours (one patch per day) with a duration of action of 8-10 hours
+What is the dose and duration of action for long-acting Isosorbide dinitrate, sublingual in the treatment of angina?	2.5-10 mg per 2 hours with a duration of action of 1.5-2 hours
+What is the dose and duration of action for long-acting Isosorbide dinitrate, oral in the treatment of angina?	10-60 mg per 4-6 hours with a duration of action of 4-6 hours
+What is the dose and duration of action for long-acting Isosorbide dinitrate, chewable oral in the treatment of angina?	5-10 mg per 2-4 hours with a duration of action of 2-3 hours
+What is the dose and duration of action for long-acting Isosorbide mononitrate, oral in the treatment of angina?	20 mg per 12 hours with a duration of action of 6-10 hours
+What is the dose and duration of action for long-acting Pentaerythritol tetranitrate (PETN) in the treatment of angina?	50 mg per 12 hours with a duration of action of 10-12 hours
+Is Amyl nitrite still used in the treatment of angina?	No, Amyl nitrite is not used anymore.
+What are nitrovasodilators? How are they activated?	nitrovasodilators are prodrugs that need enzymatic activation. Nitroglycerin, for example, is denitrated by glutathione S transferase in smooth muscle and other cells, releasing free nitrite ion. This ion is then converted to nitric oxide (NO). NO can also be released directly from the drug molecule by an unknown enzymatic mechanism.
+What happens after NO is released in the process of nitrovasodilator activation?	NO, probably complexed with cysteine, combines with the heme group of soluble guanylyl cyclase (sGC), activating the enzyme and increasing cGMP.
+What is the significance of cGMP formation in the process of nitrovasodilator activation?	Formation of cGMP represents a first step toward smooth muscle relaxation.
+What is the mechanism of action of nitrates and nitrites in the blood vessels?	
+Nitrates and nitrites are converted into nitric oxide (NO) in the blood vessels. This NO then acts on the vascular smooth muscle cells, causing them to relax. This relaxation leads to dilation of the blood vessels, which can help to reduce blood pressure and improve blood flow. Nitric oxide also inhibits the action of myosin light chain kinase (MLCK), preventing the contraction of the smooth muscle cells.
+What is the effect of increased intracellular cGMP?	Increased intracellular cGMP leads to the dephosphorylation of the myosin light chain, decreased cystolic calcium, and the relaxation of smooth muscle cells in a broad range of tissues.
+
+What is the result of NO-dependent relaxation of vascular smooth muscle?	NO-dependent relaxation of vascular smooth muscle leads to vasodilation.
+
+How does NO-mediated guanylyl cyclase activation affect platelet aggregation?	NO-mediated guanylyl cyclase activation inhibits platelet aggregation.
+
+What is the potential effect of NO on PGE and/or prostacyclin (PGI2)?	NO may increase PGE and/or prostacyclin (PGI2), which could contribute to vasodilation through membrane hyperpolarization.
+What type of muscle does Nitroglycerin relax?	Nitroglycerin relaxes all types of smooth muscle regardless of the cause of the preexisting muscle tone.
+Does Nitroglycerin have any direct effect on cardiac or skeletal muscle?	No, Nitroglycerin has no direct effect on cardiac or skeletal muscle.
+Which segments of the vascular system relax in response to Nitroglycerin?	All segments of the vascular system from large arteries through large veins relax in response to Nitroglycerin depending on the dose.
+Does Nitroglycerin preferentially dilate veins or arterioles at low concentrations?	Low concentrations of Nitroglycerin preferentially dilate the veins more than the arterioles.
+What is the primary result of Nitroglycerin treatment?	The primary result of Nitroglycerin treatment increases venous capacitance and decreases ventricular preload.
+What are the effects of nitrate/nitrites on systemic arterial pressure and heart rate?	Systemic arterial pressure may fall slightly, and heart rate is unchanged or may increase slightly in response to a decrease in blood pressure.
+What are the effects of nitrate/nitrites on pulmonary VR and cardiac output?	Pulmonary VR and cardiac output slightly increase.
+What are the effects of higher doses of organic nitrates on venous pooling, systolic blood pressure, arteriolar resistance, diastolic blood pressure, and cardiac output?	Higher doses of organic nitrates cause venous pooling, decrease systolic blood pressure, decrease arteriolar resistance, decrease diastolic blood pressure, and decrease cardiac output.
+What are the possible symptoms due to the effects of nitrate/nitrites?	Pallor, weakness, dizziness, activation of compensatory sympathetic reflexes, orthostatic hypotension and syncope may occur.
+What are the common effects of nitroglycerin on temporal artery pulsations and meningeal artery pulsations?	Temporal artery pulsations and a throbbing headache associated with meningeal artery pulsations are common effects of nitroglycerin.
+What effect do nitrate/nitrites have on coronary artery blood flow in normal subjects?	They increase coronary artery blood flow.
+What is the effect of atherosclerotic obstructive coronary artery disease on the increase in coronary blood flow caused by nitrate/nitrites?	The increase in coronary blood flow may be minimal.
+How might the redistribution of blood flow in cardiac vessels help in the context of ischemic events?	Redistribution of blood flow may help to reduce ischemic events.
+How do organic nitrates reduce myocardial oxygen demand through their effects on the systemic circulation?	1. By increasing venous capacitance, which reduces venous return to the heart, decreases ventricular end-diastolic volume, and thereby reduces oxygen consumption. 2. By reducing preload, which lowers the pressure gradient for perfusion across the ventricular wall and improves subendocardial perfusion. 3. By decreasing peripheral arteriolar resistance (afterload), which reduces myocardial work and oxygen consumption.
+What are the indirect effects of Nitrate/Nitrites? 	— Tachycardia, Increased contractility, Orthostatic hypotension and syncope, Throbbing headache associated with meningeal artery pulsation, Retention of salt and water
+
+What cardiovascular effects can Nitrate/Nitrites have?	— Tachycardia, Increased contractility, Orthostatic hypotension and syncope
+
+What symptoms can Nitrate/Nitrites cause?	— Throbbing headache associated with meningeal artery pulsation, Retention of salt and water
+
+What can Nitrate/Nitrites cause in terms of fluid balance?	— Retention of salt and water
+What happens when organic nitrates are frequently repeated or continuously infused in high doses?	1) It leads to a marked attenuation in the magnitude of most of their pharmacological effects. 2) Increasing doses are required to achieve the same therapeutic effects.
+What may cause tolerance to nitrates/nitrites?	Tolerance may result from a reduced capacity of the vascular smooth muscles to convert nitroglycerin to NO.
+Front: What role does systemic compensation mechanisms play in nitrate/nitrite tolerance?
+Back: Systemic compensation mechanisms play a significant role in nitrate/nitrite tolerance. This includes significant sympathetic discharge and, after one or more days with long-acting nitrates, retention of salt and water may partially reverse hemodynamic changes normally caused by nitroglycerin.
+
+Front: When should sublingual organic nitrates be taken?
+Back: Sublingual organic nitrates should be taken at the time of an anginal attack or in anticipation of exercise or stress.
+What is an effective approach against tolerance to nitrate/nitrites therapy?	Interrupt therapy for 8-12 hours each day, allowing the return of efficacy.
+What is the most convenient way to interrupt nitrate/nitrite therapy?	Omit dosing at night in patients with effort angina either by adjusting dosing intervals of oral or buccal preparations or by removing cutaneous nitroglycerin.
+What is a potential downside to interrupting nitrate/nitrite therapy at night?	Some patients may develop an increased frequency of nocturnal angina.
+Is tolerance to nitrate/nitrite therapy universal?	No, tolerance is not universal, and some patients develop only partial tolerance.
+What is a special form of nitroglycerin tolerance observed in people exposed to nitroglycerin in the manufacture of explosives?	Workers may experience severe headaches, dizziness, and postural weakness during the first several days of employment. Tolerance then develops, but symptoms may reappear after a few days away from the job, a phenomenon known as the "Monday disease.”
+What symptoms might workers experience during the first several days of employment in the manufacture of explosives due to nitroglycerin exposure?	Severe headaches, dizziness, and postural weakness.
+What is the "Monday disease" in the context of nitroglycerin tolerance?	It is the reappearance of symptoms such as headache and dizziness after a few days away from the job in workers exposed to nitroglycerin in the manufacture of explosives.
+What is the most serious effect of chronic exposure to nitrates?	Nitrate dependence.
+What health issues have been reported in workers without organic vascular disease due to exposure to nitrates?	An increase in the incidence of acute coronary syndromes during the 24- 72 hour periods away from the work environment.
+What occurs during withdrawal from nitrates?	Coronary and digital arteriospasm, which can be relaxed by nitroglycerin.
+What is the recommended course of action for patients who have received long therapy with nitrates?	Nitrates should not be abruptly withdrawn due to the potential problem of nitrate dependence.
+What are some common side effects of Nitrate/Nitrites?	Headache, dizziness, weakness, postural hypotension, and occasionally loss of consciousness.
+What can exacerbate the side effects of Nitrate/Nitrites?	Alcohol can accentuate the side effects, particularly loss of consciousness.
+What is a rare side effect of Nitrate/Nitrites?	A drug rash can occasionally occur from all organic nitrates.
+What can happen when sildenafil and other PDES inhibitors are combined with organic nitrates?	The combination can cause extreme hypotension. It is important to question male patients about this.
+What are Nitrosamines?	Nitrosamines are small molecules formed from the combination of nitrates and nitrites with amines.
+What is the potential danger of Nitrosamines?	Some Nitrosamines are powerful carcinogens in animals, and there is a strong epidemiologic correlation between the incidence of esophageal and gastric carcinoma and the nitrate content of food in certain cultures.
+Where can Nitrosamines be found?	1) They are found in certain foods with high nitrate content. 2) They are also found in tobacco and in cigarette smoke.
+Is there a risk of Nitrosamines formation from the small doses of nitrates used in the treatment of angina?	There is no evidence that the small doses of nitrates used in the treatment of angina result in significant body levels of Nitrosamines.
+What are the potential beneficial effects of nitrates in the treatment of angina?	1. Decreased ventricular volume which results in decreased work and myocardial oxygen requirement. 2. Decreased arterial pressure. 3. Decreased ejection time in the heart. 4. Vasodilation of epicardial coronary arteries which provides relief of coronary artery spasm. 5. Increased collateral flow which improves perfusion of ischemic myocardium. 6. Decreased left ventricular diastolic pressure which improves subendocardial perfusion.
+
+What are the potential deleterious effects of nitrates in the treatment of angina?	1. Reflex tachycardia which increases myocardial oxygen requirement and decreases diastolic perfusion time and coronary perfusion. 2. Reflex increase in contractility which also increases myocardial oxygen requirement.
+What drugs are used in myocardial ischemia?	1) Vasodilators (Calcium channel blockers)
+2) Cardiac depressants (Calcium channel blockers)
+What are the different types of calcium channels?	e L-type, T-type, N-type, P/Q-type and R-type
+Which type of calcium channel is dominant in cardiac and smooth muscle?	e L-type channel
+What units does the L-type channel consist of?	e 74, 72, Jand units
+What type of calcium channel blockers are used in clinical practice for cardiovascular indications?	e L-type channel blockers
+What are voltage-sensitive Ca2+ channels and what is their function?	These are L-type or slow channels that mediate the entry of extracellular Ca2+ into smooth muscle, cardiac myocytes, sinoatrial and atrioventricular nodal cells in response to electrical depolarization.
+What is the role of Ca2+ in smooth muscle and cardiac myocytes?	Ca2+ is a trigger for contraction in both smooth muscle and cardiac myocytes.
+"What is the mechanism of smooth muscle contraction?"	"Smooth muscle contraction is initiated by the influx of calcium ions (Ca2+) into the cell. This calcium binds to a protein called calmodulin, forming a Ca2+-calmodulin complex. This complex then activates myosin light chain kinase (MLCK), an enzyme that phosphorylates the light chains on myosin, a motor protein. This phosphorylation allows myosin to interact with actin, another protein, leading to muscle contraction. The process is reversed (leading to muscle relaxation) by the action of myosin light chain phosphatase, which dephosphorylates the myosin light chains."
+
+"What is the site of action of calcium channel blocking drugs?"	"Calcium channel blockers act on the calcium channels in the cell membrane, blocking the influx of calcium ions (Ca2+) into the cell. This prevents the formation of the Ca2+-calmodulin complex and subsequent activation of myosin light chain kinase (MLCK), thereby inhibiting muscle contraction." 
+
+"What is the role of calmodulin in smooth muscle contraction?"	"Calmodulin is a protein that binds to calcium ions (Ca2+) that have entered the cell. The Ca2+-calmodulin complex then activates myosin light chain kinase (MLCK), an enzyme that phosphorylates the light chains on myosin, a motor protein. This phosphorylation allows myosin to interact with actin, another protein, leading to muscle contraction."
+
+"What is the role of myosin light chain kinase (MLCK) in smooth muscle contraction?"	"Myosin light chain kinase (MLCK) is an enzyme that is activated by the Ca2+-calmodulin complex. Once activated, MLCK phosphorylates the light chains on myosin, a motor protein. This phosphorylation allows myosin to interact with actin, another protein, leading to muscle contraction." 
+
+"What is the role of myosin and actin in smooth muscle contraction?"	"Myosin and actin are proteins that interact to cause muscle contraction. Myosin is a motor protein that, once its light chains have been phosphorylated by myosin light chain kinase (MLCK), can interact with actin to cause contraction. Actin is the protein that myosin interacts with to cause this contraction."
+What are Calcium channel-blockers also known as?	Ca 2?* entry blockers
+What is the function of Calcium channel-blockers?	They inhibit Ca?2* channel function.
+How do Calcium channel-blockers work in cardiac and vascular smooth muscle?	They block Ca*? entry though L-type channel in cardiac and vascular smooth muscle.
+What effects do Calcium channel-blockers produce in the heart?	They produce negative inotropic and chronotropic effects.
+What effect do Calcium channel-blockers have on vascular smooth muscle?	They cause relaxation in vascular smooth muscle, especially in arterial beds.
+What is the bioavailability, half-life, indication, and dosage of Amlodipine?	65-90% bioavailability, 30-50 hours half-life, indicated for Angina and hypertension, dosage is 5-10 mg orally once daily
+What is the bioavailability, half-life, indication, and dosage of Felodipine?	15-20% bioavailability, 11-16 hours half-life, indicated for Hypertension and Raynaud’s phenomenon, dosage is 5-10 mg orally once daily
+What is the bioavailability, half-life, indication, and dosage of Isradipine?	15-25% bioavailability, 8 hours half-life, indicated for Hypertension, dosage is 2.5-10 mg orally twice daily
+What is the bioavailability, half-life, indication, and dosage of Nicardipine?	35% bioavailability, 2-4 hours half-life, indicated for Angina and hypertension, dosage is 20-40 mg orally every 8 hours
+What is the bioavailability, half-life, indication, and dosage of Nifedipine?	45-70% bioavailability, 4 hours half-life, indicated for Angina, hypertension, and Raynaud's phenomenon, dosage is 3-10 meg/kg IV; 20-40 mg orally every 8 hours
+What is the bioavailability, half-life, indication, and dosage of Nisoldipine?	<10% bioavailability, 6-12 hours half-life, indicated for Hypertension, dosage is 20-40 mg orally once daily
+What is the bioavailability, half-life, indication, and dosage of Nitrendipine?	10-30% bioavailability, 5-12 hours half-life, indicated for Investigational, dosage is 20 mg orally once or twice daily
+What is the bioavailability, half-life, indication, and dosage of Diltiazem?	40-65% bioavailability, 3-4 hours half-life, indicated for Angina, hypertension, and Raynaud's phenomenon, dosage is 75-150 mcg/kg IV; 30-80 mg orally every 6 hours
+What is the bioavailability, half-life, indication, and dosage of Verapamil?	20-35% bioavailability, 6 hours half-life, indicated for Angina, hypertension, arrhythmias, and migraine, dosage is 75-150 mcg/kg IV; 80-160 mg orally every 8 hours
+What is the classification of Diltiazem?	Fenilalkilamine
+What is the classification of Verapamil?	Benzotiazepin
+What is the effect of Calcium channel-blockers on coronary vascular resistance and blood flow?	All Calcium channel blockers decrease coronary vascular resistance and can increase coronary blood flow.
+Which type of Calcium channel-blockers are more potent vasodilators than verapamil?	Dihydropyridines are more potent vasodilators than verapamil.
+What is the effect of Dihydropyridines on arterial vascular beds?	They cause selective dilatation in arterial vascular beds.
+How do Dihydropyridines affect venous pooling compared to arterial vessels?	Their effects on venous pooling is much lesser than the arterial vessels.
+What is the effect of Calcium channel-blockers on blood pressure?	With all Calcium channel blockers, blood pressure is reduced.
+What is the effect of Calcium channel-blockers on PVR and coronary vascular resistance?	Calcium channel-blockers reduce PVR and coronary vascular resistance.
+What is the effect of Calcium channel-blockers on coronary blood flow?	Calcium channel-blockers increase coronary blood flow.
+Which patients benefit from Calcium channel-blockers?	Patients with effort angina/variant angina benefit from these drugs.
+Which type of Calcium channel-blockers have a greater ratio of vascular smooth muscle effects relative to cardiac effects?	Dihydropyridines have a greater ratio of vascular smooth muscle effects relative to cardiac effects than do diltiazem and verapamil.
+What is the effect of Calcium channel-blockers on Bronchiolar, Gl, and uterine smooth muscles?	Bronchiolar, Gl, and uterine smooth muscles also relax due to Calcium channel-blockers.
+What are the effects of calcium channel-blockers on cardiac muscle?	They decrease impulse generation and conduction in SA and AV nodes, alter the action potential, reduce cardiac contractility, and decrease cardiac output.
+What is the effect of calcium channel-blockers on the oxygen requirement in patients with angina?	Calcium channel-blockers decrease the oxygen requirement in patients with angina.
+What is the difference between Dihydropyridines and other calcium channel-blockers like verapamil or diltiazem?	Dihydropyridines block smooth muscle calcium channels at concentrations below those required for significant cardiac effects; they are therefore less depressant on the heart than verapamil or diltiazem.
+What are the adverse effects of slow-release and long-acting dihydropyridine calcium channel blockers?	These are usually well tolerated.
+
+What is the risk associated with relatively short-acting calcium channel blockers such as immediate-release nifedipine?	They potentially enhance the risk of adverse cardiac events and should be avoided.
+
+How do patients receiving B-blocking drugs react to calcium channel blockers?	They are more sensitive to the cardiodepressant effects of calcium channel blockers.
+
+What are the minor adverse effects of calcium channel blockers?	1. Reflex tachycardia (most frequently with nifedipine, less with verapamil and diltiazem)
+2. Flushing
+3. Dizziness
+4. Nausea
+5. Constipation (more with verapamil)
+6. Peripheral edema (more with diltiazem)
+What effect can dihydropyridines have on patients with relatively low blood pressure?	Dihydropyridines can cause further deleterious lowering of pressure in patients with relatively low blood pressure.
+What calcium channel-blockers may be better tolerated in patients with relatively low blood pressure?	Verapamil and diltiazem may be better tolerated in these circumstances as they appear to produce less hypotension.
+What advantage do verapamil and diltiazem provide in patients with a history of atrial tachycardia, flutter, and fibrillation?	Verapamil and diltiazem provide advantage because of their antiarrhythmic effects.
+Why are immediate-release short-acting calcium channel blockers contraindicated in patients with unstable angina?	Immediate-release short-acting calcium channel blockers can increase the risk of adverse cardiac events in patients with unstable angina.
+What drugs are used in the treatment of myocardial ischemia?	1) Vasodilators such as Nitrates/nitrites and Calcium entry blockers 2) Cardiac depressants such as Beta-adrenoceptor blockers 3) Antiplatelets & Antitrombotic Agents such as aspirin, clopidogrel, and heparin 4) Others like metabolism modifiers and rate inhibitors.
+
+What are the types of Vasodilators used in myocardial ischemia?	Nitrates/nitrites and Calcium entry blockers.
+
+What are the types of Cardiac depressants used in myocardial ischemia?	Beta-adrenoceptor blockers.
+
+What are the types of Antiplatelets & Antitrombotic Agents used in myocardial ischemia?	Aspirin, clopidogrel, and heparin.
+
+What are the other types of drugs used in myocardial ischemia?	Metabolism modifiers and rate inhibitors.
+What are the beneficial effects of B-blocking agents?	Decreased heart rate, increased diastolic perfusion time, increased coronary perfusion, decreased myocardial oxygen requirements, decreased blood pressure at rest and during exercise, and decreased contractility.
+What are the outcomes of using beta blockers for patients with recent MI or hypertension?	Beta blockers decrease mortality of patients with recent MI, improve survival, and prevent stroke in patients with hypertension.
+Are all B-blocking drugs vasodilators?	No, only carvedilol and nebivolol are vasodilators.
+What are the effects of J AR antagonists in the treatment of effort angina?	They decrease myocardial O2 consumption at rest and during exercise due to: 1. Negative chronotropic effect (particularly during exercise) 2. Negative inotropic effect 3. Reduction in arterial blood pressure (particularly systolic pressure) during exercise. They may also increase blood flow toward ischemic regions.
+
+"What are some potential negative effects of AR antagonists on patients?"	"The decreases in heart rate and contractility can lead to an increased systolic ejection period and left ventricular end-diastolic volume. These alterations may tend to increase oxygen consumption."
+What are the adverse effects of FAR antagonists?	Front: Increase in end-diastolic volume, Increase in ejection time, Fatigue, impaired exercise tolerance, insomnia, unpleasant dreams, worsening of claudication, erectile dysfunction.
+What can balance the deleterious effects of B-blockers?	Back: The concomitant use of nitrates.
+What are the contraindications of FAR antagonists?	Front: Asthma, severe bradycardia, atrioventricular blockade, bradycardia-tachycardia syndrome, severe unstable left ventricular failure.
+What are the cardiac effects of B-adrenergic blocking drugs at the levels of the SA node, AV node, conduction system, and myocardium?	1. Nodal depression by SA - Verapamil
+2. Negative chronotropic - Diltiazem, Digoxin, Amiodarone
+3. Negative dromotropic - AV
+4. Anti-arrhythmic - Other negative inotropes, CCBs
+5. Negative inotropic - Anti-arrhythmics, Anesthetics
+6. Anti-ischemic - Opie 2005
+
+What are the major pharmacodynamic drug interactions of B-adrenergic blocking drugs?	1. Verapamil with SA node
+2. Diltiazem, Digoxin, Amiodarone with chronotropic effect
+3. AV with dromotropic effect
+4. Other negative inotropes, CCBs with anti-arrhythmic effect
+5. Anti-arrhythmics, Anesthetics with negative inotropic effect
+6. Opie 2005 with anti-ischemic effect
+What are the non-selective beta receptor blockers with intrinsic sympathomimetic activity (ISA)?	Labetalol, Carvedilol, Pindolol, Carteolol, Penbutolol
+What are the non-selective beta receptor blockers without intrinsic sympathomimetic activity (ISA)?	Nadolol, Propranolol, Timolol
+What are the selective beta receptor blockers with intrinsic sympathomimetic activity (ISA)?	Acebutolol
+What are the selective beta receptor blockers without intrinsic sympathomimetic activity (ISA)?	Atenolol, Metoprolol, Esmolol, Betaxolol, Bisoprolol
+What is the function of beta receptor blockers with intrinsic sympathomimetic activity (ISA)?	They inhibit the activation of BAR in presence of high catecholamine concentrations but moderately activate receptors in absence of endogenous agonists.
+Which beta receptor blockers have been shown to exert cardioprotective effects?	Timolol, metoprolol, atenolol, and propranolol
+What are the effects of nitrates alone on heart rate, end-diastolic volume, and ejection time in angina pectoris? 	Heart rate increases due to reflex, end-diastolic volume decreases, and ejection time also decreases.
+What are the effects of nitrates with beta blockers on heart rate, end-diastolic volume, and ejection time in angina pectoris? 	Heart rate decreases, end-diastolic volume increases, and ejection time increases.
+What are the effects of nitrates with calcium channel blockers on heart rate, end-diastolic volume, and ejection time in angina pectoris? 	Heart rate decreases, end-diastolic volume either remains the same or decreases, and there is no change in ejection time.
+What does the baroreceptor reflex do in the context of angina pectoris treatment with nitrates? 	The baroreceptor reflex is responsible for the increase in heart rate when nitrates are used alone in angina pectoris treatment.
+What does it mean when the effects are shown in italics in the context of angina pectoris treatment? 	The effects shown in italics are undesirable effects in the context of angina pectoris treatment.
+What drugs are used in the treatment of myocardial ischemia?	Antiplatelets & Antitrombotic Agents such as 1. Aspirin, 2. Clopidogrel, 3. Heparin.
+"What is the process of platelet adhesion to a thrombogenic surface?"	"First, there is exposure of acidic phospholipids, leading to the activation of platelets. This is followed by AA generation and the initiation of coagulation processes. The production of cyclic endoperoxides then occurs, leading to the synthesis of TXA. Direct thrombin inhibitors such as hirudi can be used to inhibit this process. Drugs like Clopidogrel can act as antagonists to lib/llla receptors, preventing the linkage of adjacent platelets by fibrinogen binding to GP liblila receptors."
+
+"What is the role of Clopidogrel in the process of platelet adhesion?"	"Clopidogrel acts as an antagonist to lib/llla receptors, preventing the linkage of adjacent platelets by fibrinogen binding to GP liblila receptors."
+
+"What is the role of direct thrombin inhibitors in the process of platelet adhesion?"	"Direct thrombin inhibitors, such as hirudi, can be used to inhibit the synthesis of TXA, a key part of the coagulation process."
+
+"What happens after the activation of platelets in the process of platelet adhesion?"	"After the activation of platelets, AA generation occurs, initiating the coagulation processes. This is followed by the production of cyclic endoperoxides and the synthesis of TXA."
+
+"What is the function of GP lib/llla receptors in the process of platelet adhesion?"	"GP lib/llla receptors are involved in the linkage of adjacent platelets by allowing fibrinogen to bind to them."
+What effect does Aspirin have on patients with unstable angina?	Aspirin reduces the incidence of Myocardial Infarction (MI) and death in patients with unstable angina.
+What effect does low doses of Aspirin have on patients with chronic stable angina?	Low doses of Aspirin appear to reduce the incidence of Myocardial Infarction (MI) in patients with chronic stable angina.
+What is the recommended dosage of Aspirin at the onset of treatment of MI?	Aspirin should be given in doses of 160 - 325 mg at the onset of treatment of MI.
+What is the effect of combining clopidogrel with aspirin therapy in patients with acute coronary syndromes?	The addition of clopidogrel to aspirin therapy reduces mortality in patients with acute coronary syndromes.
+What does Aspirin inhibit and what is its effect on thrombosis risk?	e Aspirin irreversibly inhibits COX-1. Low doses of aspirin (80-300 mg) very effectively (> 95%) inhibit platelet thromboxane (TX)A:2 synthesis and reduce the risk of thrombosis.
+What is Clopidogrel and what does it inhibit?	e Clopidogrel is a prodrug. It irreversibly inhibits P2Y12 receptors and thereby inhibits platelet responses to ADP.
+What is the clinical effect of Clopidogrel when combined with Aspirin?	e Clopidogrel's clinical effect is additive with aspirin.
+What is Prasugrel similar to?	* Prasugrel is similar to Clopidogrel.
+What does Dipyridamole inhibit and when is it used?	e Dipyridamole inhibits PDE and adenosine uptake. It is used in addition to aspirin in some patients with stroke or transient ischemic attack.
+What are some examples of GPIIb/IIIa receptor antagonists?	Abciximab (a monoclonal antibody) and synthetic molecules such as tirofiban.
+How are GPIIb/IIIa receptor antagonists administered?	They are administered intravenously for short-term treatment.
+What are the benefits of intravenous administration of GPIIb/IIIa receptor inhibitors?	They are effective in preventing complications such as myocardial injury during percutaneous coronary interventions and in the treatment of patients with acute coronary syndromes.
+What is Epoprostenol and how is it administered?	Epoprostenol is a synthetic PGI given as an intravenous infusion.
+What receptors does Epoprostenol act on and what is the result?	Epoprostenol acts on prostanoid (IP) receptors on vascular smooth muscle and platelets, leading to adenylyl cyclase activation, vasodilatation and inhibition of platelet aggregation caused by any pathway (e.g. ADP or TXA).
+What is the role of Heparin in treating unstable angina?	Heparin reduces symptoms and prevents infarction in unstable angina by activating antithrombin III.
+What are some examples of Thrombin inhibitors and what is their function?	Hirudin and bivalirudin are examples of Thrombin inhibitors, they directly inhibit even clot-bound thrombin.
+Are Thrombolytic agents beneficial in treating unstable angina?	No, Thrombolytic agents are of no benefit in unstable angina.
+What drugs are used in the treatment of myocardial ischemia?	1) Vasodilators (Nitrates/nitrites, Calcium entry blockers)
+2) Cardiac depressants (Calcium entry blockers, Beta-adrenoceptor blockers)
+3) Antiplatelets & Antitrombotic Agents (aspirin, clopidogrel, heparin)
+4) Others (metabolism modifiers, rate inhibitors)
+
+What are the types of vasodilators used in the treatment of myocardial ischemia?	Nitrates/nitrites, Calcium entry blockers
+
+What are the types of cardiac depressants used in the treatment of myocardial ischemia?	Calcium entry blockers, Beta-adrenoceptor blockers
+
+What are the types of Antiplatelets & Antitrombotic Agents used in the treatment of myocardial ischemia?	Aspirin, clopidogrel, heparin
+
+What are the other types of drugs used in the treatment of myocardial ischemia?	Metabolism modifiers, rate inhibitors
+What is Amiloride under investigation for use in?	Angina
+What is the potential use of Capsaicin in medical treatment?	Angina
+What are Direct bradycardic agents like ivabradine being investigated for?	Angina
+What is the potential medical use of inhibitors of slowly inactivating sodium current like ranolazine?	Angina
+What is the potential use of Metabolic modulators like trimetazidine in medical treatment?	Angina
+What is the potential use of Nitric oxide donors like L-arginine in medical treatment?	Angina
+What is the potential use of Potassium channel activators like nicorandil in medical treatment?	Angina
+What is the potential use of Protein kinase G facilitators like detanonoate in medical treatment?	Angina
+What is the potential use of Rho-kinase inhibitors like fasudil in medical treatment?	Angina
+What is the potential use of Sulfonylureas like glibenclamide in medical treatment?	Angina
+What is the potential use of Thiazolidinediones in medical treatment?	Angina
+What is the potential use of Vasopeptidase inhibitors in medical treatment?	Angina
+What is the potential use of Xanthine oxidase inhibitors like allopurinol 57 in medical treatment?	Angina
+What is effort angina?	 Effort angina is predictable chest pain on exertion, produced by an increased demand on the heart and is caused by a fixed narrowing of the coronary vessels, almost always by atheroma.
+What is the major mechanism for the relief of effort angina?	 The major mechanism for the relief of effort angina is the reduction in oxygen demand.
+What is the symptomatic therapy for effort angina?	 Symptomatic therapy for effort angina is directed at reducing cardiac work with organic nitrates, B-adrenoceptor antagonists and/or calcium antagonists, together with treatment of the underlying atheromatous disease, usually including a statin, and prophylaxis against thrombosis with an antiplatelet drug, usually aspirin.
+What characterizes unstable angina?	Unstable angina is characterized by pain that occurs with less exertion, culminating in pain at rest.
+What is the pathology involved in unstable angina?	The pathology involved in unstable angina is similar to that involved in myocardial infarction: platelet-fibrin thrombus associated with a ruptured atheromatous plaque, but without complete occlusion of the vessel.
+How do nitrates exert their beneficial effects in the treatment of unstable angina?	Nitrates may exert their beneficial effects both by dilating the epicardial coronary arteries and by simultaneously reducing myocardial oxygen demand.
+What antiplatelet drugs reduce the risk of myocardial infarction in unstable angina?	Antiplatelet drugs such as aspirin and/or an ADP antagonist such as clopidogrel/prasugrel reduce the risk of myocardial infarction in unstable angina.
+What additional drugs add benefit in the treatment of unstable angina?	Heparin and platelet glycoprotein receptor antagonists add benefit in the treatment of unstable angina.
+What is variant angina?	Uncommon condition caused by coronary artery spasm, usually in association with atheromatous disease.
+What is the therapy for variant angina?	Coronary artery vasodilators such as organic nitrates and calcium antagonists.
+How do nitrates benefit patients with variant angina?	By relaxing the smooth muscle of the epicardial coronary arteries and relieving coronary artery spasm.
+What occurs during a Myocardial Infarction (MI)?	A coronary artery is blocked by a thrombus during a Myocardial Infarction.
+What can be the result of a Myocardial Infarction (MI)?	MI can be fatal and is a common cause of death, usually as a result of mechanical failure of the ventricle or from dysrhythmia.
+What do cardiac myocytes rely on?	Cardiac myocytes rely on aerobic metabolism.
+What happens when the supply of oxygen remains below a critical value in cardiac myocytes?	A sequence of events lead to cell death (by necrosis or apoptosis). This is detected clinically by an elevation of circulating troponin.
+What is the gold-standard biochemical marker of myocardial injury?	The gold-standard biochemical marker of myocardial injury is an elevation of circulating troponin.
+"What are Thrombolytic drugs used for?"	"Thrombolytic drugs are used to dissolve dangerous clots in blood vessels, improve blood flow, and prevent damage to tissues and organs."
+
+"What is the function of Aspirin?"	"Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches. It may also be used to reduce pain and swelling in conditions such as arthritis."
+
+"What is the role of supplemental Oxygen in medical treatment?"	"Supplemental Oxygen is used in medical treatment to increase oxygen levels in the body to normal levels for patients who have low oxygen. It is also used for severe shortness of breath."
+
+"What are ARB Nitrates used for?"	"ARB Nitrates are used to treat chest pain (angina) and high blood pressure."
+
+"What is the function of ACE inhibitors?"	"ACE inhibitors are used to treat high blood pressure, heart failure, and to improve survival after a heart attack."
+
+"What is the effect of increased sympathetic activity on cardiac work?"	"Increased sympathetic activity increases cardiac work by increasing heart rate and force of contraction."
+
+"What is the effect of B-adrenoceptor antagonists?"	"B-adrenoceptor antagonists block the action of adrenaline and noradrenaline on the heart, reducing heart rate and blood pressure."
+
+"What is the role of protease activation in cell death?"	"Protease activation plays a crucial role in cell death by breaking down proteins and peptides, leading to apoptosis."
+
+"What is apoptosis?"	"Apoptosis is a process of programmed cell death that occurs in multicellular organisms. It is a crucial part of growth and development, and maintaining the health of the body."
+What is the main therapeutic aim following an episode of coronary thrombosis?	Aim is to prevent irreversible ischemic damage.
+
+What is key in treating myocardial infarction and why is it important?	Opening the occluded artery is key as it prevents further damage, and it is important that this is achieved promptly, irrespective of the means by which it is done.
+
+What is more effective than thrombolytic drugs in treating myocardial infarction if possible?	Angioplasty with a glycoprotein lib/llla antagonist is more effective than thrombolytic drugs.
+
+What are the main therapeutic drugs used in treating myocardial infarction aimed at?	The main therapeutic drugs are aimed at improving cardiac function by 1. maintaining oxygenation, 2. reducing cardiac work, 3. treating pain and 4. preventing further thrombosis.
+What drugs are used in combination to open a blocked artery and prevent re-occlusion?	e Combinations of antiplatelet (aspirin and clopidogrel) and antithrombotic (a heparin preparation) drugs.
+
+What is used against arterial hypoxia?	Oxygen.
+
+What drugs are used to prevent pain and reduce excessive sympathetic activity during a heart attack?	Opioids (given with an antiemetic).
+
+What is the role of organic nitrates in the treatment of heart attacks?	Organic nitrates are used in the treatment of heart attacks, but the specific role is not provided in the text.
+
+When are B-AR blockers used in the treatment of heart attacks and what is their role?	B-AR blockers are used as soon as the patient is stable to reduce cardiac work and metabolic needs of the heart.
+
+What is the role of Angiotensin-converting enzyme inhibitors (ACEIls) or angiotensin AT1 receptor antagonists in the treatment of heart attacks?	ACEIls or angiotensin AT1 receptor antagonists reduce cardiac work and improve survival, as does opening the coronary artery and antiplatelet treatment.
+What can intracoronary stents do for patients with acute coronary syndromes?	They can ameliorate angina and reduce adverse events.
+What limits the long-term efficacy of intracoronary stents?	Subacute luminal restenosis within the stent, which occurs in some patients.
+What is a common pathological finding in "in-stent restenosis"?	Smooth muscle proliferation within the lumen of the stented artery.
+What type of therapies have been explored to combat "in-stent restenosis"?	Local antiproliferative therapies at the time of stenting.
+What has been the impact of the development of drug-eluting stents on clinical?	The development of drug-eluting stents has had an important impact on clinical.
+What are the two drugs currently being used in intravascular stents?	paclitaxel and sirolimus
+How does paclitaxel inhibit cellular proliferation?	It binds to and stabilizes polymerized microtubules.
+What does sirolimus bind to in the cytosol?	It binds to the immunophilin FKBP12.
+How does the rate of restenosis with drug-eluting stents compare to that of "bare metal" stents?	The rate of restenosis with drug-eluting stents is markedly reduced compared to "bare metal" stents.
+What is the potential future development in intravascular therapeutics?	The ongoing development of mechanopharmacological approaches likely will lead to novel approaches in intravascular therapeutics.
